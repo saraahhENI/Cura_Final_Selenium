@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MessageRequired_Text</name>
+   <tag></tag>
+   <elementGuidId>bc9646b4-b251-4dc9-9f1f-06947d7409a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='ff_3_message']/../div[@class='error text-danger']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.error.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9fba1860-23df-434d-b5a9-8f97adea1972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error text-danger</value>
+      <webElementGuid>abe26db2-8e8f-4986-b0b4-9c42719b6a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>7cc72861-8957-4d04-8e97-e81e524fdf4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This field is required</value>
+      <webElementGuid>bcb7f1e6-c930-4411-b771-2c243845572f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fluentform_3&quot;)/fieldset[1]/div[@class=&quot;ff-field_container ff-name-field-wrapper&quot;]/div[@class=&quot;ff-t-container&quot;]/div[@class=&quot;ff-t-cell&quot;]/div[@class=&quot;ff-el-group ff-el-is-error&quot;]/div[@class=&quot;ff-el-input--content&quot;]/div[@class=&quot;error text-danger&quot;]</value>
+      <webElementGuid>66576079-2952-4936-88d0-eb6d0d0f337f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='fluentform_3']/fieldset/div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>f29fc93d-54ac-42f6-893e-f93db65d2a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]/div</value>
+      <webElementGuid>ae01e8e6-f386-4c53-865b-8a1e55c39a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'This field is required' or . = 'This field is required')]</value>
+      <webElementGuid>bf2e1841-c217-4daf-92ca-05242a2d34c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
